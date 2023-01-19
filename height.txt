@@ -1,0 +1,12 @@
+number 9 = background-position: 0px 13130px;
+number 8 = background-position: 0px 5450px
+number 7 = background-position: 0px 5580px;
+number 6 = background-position: 0px 5706px;
+number 5 = background-position: 0px 8433px
+number 4 = background-position: 0px 3366px
+number 3 = background-position: 0px 3488px
+number 2 = background-position: 0px 12720px;
+number 1 = background-position: 0px 12846px;
+number 0 = background-position: 0px 5180px;
+
+
